@@ -38,7 +38,7 @@ export function Intro() {
       <div className="mt-14 grid gap-12 sm:mt-16 sm:grid-cols-12 sm:gap-8">
         <div className="sm:col-span-7 lg:col-span-6">
           <p className="max-w-prose text-[15px] leading-7 text-muted-foreground">
-            I&apos;m Keke, a photographer based in Shanghai. I work with
+            I&apos;m Alex, a photographer based in Shanghai. I work with
             couples, families and small studios — weddings, portraits and
             editorial commissions, shot slowly and edited by hand over the week
             that follows.

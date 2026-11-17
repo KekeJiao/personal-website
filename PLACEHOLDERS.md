@@ -35,9 +35,9 @@ them with your own files when they are ready. The filenames above are suggestion
 
 ## Also placeholder, less visible
 
-- `site.email` — `hello@kekejiao.com` is a stand-in; use the inbox you actually read.
+- `site.email` — `hello@example.com` is a stand-in; use the inbox you actually read.
 - `site.socials` — Instagram and 小红书 links point at their home pages.
-- `site.url` / `NEXT_PUBLIC_SITE_URL` — the fallback domain `www.kekejiao.com`.
+- `site.url` / `NEXT_PUBLIC_SITE_URL` — the fallback domain `www.example.com`.
 - Prices in `rates` — starting points in CNY; adjust to your own numbers.
 - Copy throughout `components/sections/*` is written in the photographer's voice; read it once and
   make it yours.

@@ -1,4 +1,4 @@
-# Keke Jiao — portfolio
+# Alex Rivera — portfolio
 
 A single-page photography portfolio: an introduction, a curated edit of work, rates, and a contact
 link that is hard to miss. Built as a static Next.js app (no database, no CMS), so it deploys
@@ -47,6 +47,6 @@ The build is fully static except for image optimisation. On Vercel it works with
 On another host, run `npm run build && npm run start`, or add `output: "export"` in `next.config.ts`
 if you accept unoptimised images and switch the image URLs to local files.
 
-Set `NEXT_PUBLIC_SITE_URL` to the production origin (for example `https://kekejiao.com`) so the
+Set `NEXT_PUBLIC_SITE_URL` to the production origin (for example `https://example.com`) so the
 canonical link, Open Graph URLs and sitemap point at the real domain. Without it the fallback in
 `lib/site.ts` is used.

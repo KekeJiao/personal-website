@@ -6,14 +6,14 @@
  */
 
 export const site = {
-  name: "Keke Jiao",
+  name: "Alex Rivera",
   role: "Photographer",
   location: "Shanghai, China",
   // Placeholder address — replace with the inbox you actually read.
-  email: "hello@kekejiao.com",
+  email: "hello@example.com",
   // Used for canonical URLs, Open Graph tags and the sitemap.
   // Set NEXT_PUBLIC_SITE_URL in production, or edit the fallback below.
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.kekejiao.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.example.com",
   availability: "Booking spring — autumn 2026",
   intro:
     "I make quiet photographs of people, places, and the space between them. Weddings, portraits and small editorial commissions, shot slowly and edited by hand.",
